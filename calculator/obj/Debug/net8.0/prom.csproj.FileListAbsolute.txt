@@ -1,0 +1,14 @@
+/Users/melekaltun/Desktop/Tombala/bin/Debug/net8.0/prom
+/Users/melekaltun/Desktop/Tombala/bin/Debug/net8.0/prom.deps.json
+/Users/melekaltun/Desktop/Tombala/bin/Debug/net8.0/prom.runtimeconfig.json
+/Users/melekaltun/Desktop/Tombala/bin/Debug/net8.0/prom.dll
+/Users/melekaltun/Desktop/Tombala/bin/Debug/net8.0/prom.pdb
+/Users/melekaltun/Desktop/Tombala/obj/Debug/net8.0/prom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melekaltun/Desktop/Tombala/obj/Debug/net8.0/prom.AssemblyInfoInputs.cache
+/Users/melekaltun/Desktop/Tombala/obj/Debug/net8.0/prom.AssemblyInfo.cs
+/Users/melekaltun/Desktop/Tombala/obj/Debug/net8.0/prom.csproj.CoreCompileInputs.cache
+/Users/melekaltun/Desktop/Tombala/obj/Debug/net8.0/prom.dll
+/Users/melekaltun/Desktop/Tombala/obj/Debug/net8.0/refint/prom.dll
+/Users/melekaltun/Desktop/Tombala/obj/Debug/net8.0/prom.pdb
+/Users/melekaltun/Desktop/Tombala/obj/Debug/net8.0/prom.genruntimeconfig.cache
+/Users/melekaltun/Desktop/Tombala/obj/Debug/net8.0/ref/prom.dll
